@@ -9,4 +9,4 @@ jCAPTCHA is a straightforward implementation of a text-based CAPTCHA written in 
 </div>
 
 # Live Demo
-<a href="https://jcaptcha.stablenetwork.uk/">Click here</a> to view a working version of this project.
+<a href="https://jcaptcha.appserver.uk/">Click here</a> to view a working version of this project.
